@@ -1,1 +1,1 @@
-# Javascript and related techologies repository
+# Javascript and related technologies repository
